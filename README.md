@@ -7,13 +7,13 @@ This project served as a colleague and I's final project for our semester of lea
 ---
 After implementing this Script and fulling putting together our car, we were ready for our first test drive. This [demonstration](https://github.com/cole-dobmeier/Raspberry-Pi-Car/blob/main/Demonstration_Video.mp4) was successful and we were ready to present our car to our peers.
 
-### TechNologies:
-- Python Programming
-- Differential wheel speed while turning
-- Pygame controller functions
-- Jetson Nano car kits
+**Features:**
+- 360 degree driving operations
+- Differential wheel turning speeds
+- Manually adjustable car velocity
 
-### Features:
-- NES Easy-Controllability controller
-- Adjustable speeds
-- 360 degree operation
+**Technologies:**
+- Raspberry Pi
+- Python Programming
+- Jetson Nano Car Kit
+- Wired NES Controller
